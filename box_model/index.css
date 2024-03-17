@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  border: 09px dashed red;
+  padding: 60px 60px;
+  margin: 8px;
+}
+.box2 {
+  width: 200px;
+  height: 200px;
+  border: 102px dashed rgb(238, 225, 225);
+  padding: 20px 30px 40px 30px;
+  margin: 8px;
+}
+
